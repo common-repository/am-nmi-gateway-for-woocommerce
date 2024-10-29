@@ -1,0 +1,5 @@
+/* Hide fields by default; JS will control visibility */
+.sandbox-credentials,
+.live-credentials {
+    display: none;
+}
